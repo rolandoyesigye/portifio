@@ -44,12 +44,12 @@ const projects = [
   },
   {
     id: 4,
-    title: 'Portfolio Website',
-    description: 'A modern portfolio website built with Vue.js and Vite.',
-    image: '/images/project3.jpg',
-    tags: ['Vue.js', 'Vite', 'CSS3'],
-    github: 'https://github.com/yourusername/portfolio',
-    demo: 'https://portfolio-demo.com',
+    title: 'Car_Rental And Servicing Website',
+    description: 'A modern Car_rental and servicing site that helps someone to book a pickup, rent a vehcle and Servicing.',
+    image: '/images/car_rental.png',
+    tags: ['laravel Livewire', 'Tailwindcss'],
+    github: 'https://github.com/rolandoyesigye/final_sem',
+    demo: '',
   },
 ]
 
